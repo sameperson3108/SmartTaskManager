@@ -6,6 +6,8 @@ public class Main {
         TaskList taskList = new TaskList();
         TaskLogic taskLogic = new TaskLogic(taskList);
 
+        //test on new versionSystem
+
         while (true) {
             System.out.println("\n ТАСК-МЕНЕДЖЕР ");
             System.out.println("1. ДОБАВИТЬ ЗАДАЧУ");
